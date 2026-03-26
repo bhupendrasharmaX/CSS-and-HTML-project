@@ -25,4 +25,4 @@
 
 ## ⭐ Show Your Support
 
-If you like these projects, please give this repo a ⭐ — it motivates me to keep building!
+If you like these projects, please give this repo a ⭐ it motivates me to keep building!
