@@ -1,5 +1,14 @@
 # HTML,CSS, and Java Script Project
 
+## 📁 Projects Included
+
+| Project Name | Technologies Used | Live Demo |
+|---|---|---|
+| Amazon Homepage Clone | HTML, CSS | [View](https://amazon-homepage-clonee.netlify.app/) |
+| Project 2 | HTML, CSS, JS | [View](#) |
+
+---
+
 ## 📬 Contact
 
 **Bhupendra Sharma**
