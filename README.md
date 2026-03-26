@@ -9,6 +9,12 @@
 
 ---
 
+## 📸 Screenshots
+
+<img width="1200" height="820" alt="amazon_collage" src="https://github.com/user-attachments/assets/0915c38d-9dba-4c35-a8fe-a55590c51a9a" />
+
+---
+
 ## 📬 Contact
 
 **Bhupendra Sharma**
